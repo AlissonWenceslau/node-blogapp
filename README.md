@@ -20,6 +20,8 @@ Para que a aplicação funcione, basta dar um **npm install** para que as depend
 6. Express-session
 7. connect-flash
 8. Bootstrap
+9. Passport
+10. Passport-local
 
 ## Objetivo
 Aperfeiçoar o conhecimento inicial em NodeJS para futuramente construir aplicações robustas buscando entregar a melhor performance e experiência para o usuário.
